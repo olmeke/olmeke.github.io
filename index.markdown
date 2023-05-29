@@ -13,13 +13,14 @@ Previously, I worked on ARM TrustZone security, rehosting, and OS security.
 If you are interested, send me an email, I am happy to talk!
 
 Before starting the PhD, I did a Bachelor's at [FAU](https://www.fau.eu/).
+I wrote my thesis on rehosting bootloaders of COTS mobile devices.
 
 ## Education
 **University of California, Santa Barbara** <small>*2021 - present*</small> \
 PhD in Computer Science
 
 **Friedrich-Alexander University Erlangen-Nuremberg** <small>*2021 - present*</small> \
-Bachelor of Science in Computer Science, *with distinction*
+Bachelor of Science in Computer Science, *graduated with distinction*
 
 ## Projects
 
