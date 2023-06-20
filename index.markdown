@@ -22,6 +22,11 @@ PhD in Computer Science
 **Friedrich-Alexander University Erlangen-Nuremberg** <small>*2021 - present*</small> \
 Bachelor of Science in Computer Science, *graduated with distinction*
 
+## Publications
+
+**ACTOR: Action-Guided Kernel Fuzzing** (USENIX '23) <small> [pdf](docs/pubs/sec23_actor.pdf) [cite](docs/bibs/sec23_actor.bib) </small> \
+Marius Fleischer, Dipanjan Das, Priyanka Bose, Weiheng Bai, Kangjie Lu, Mathias Payer, Christopher Kruegel, Giovanni Vigna
+
 ## Projects
 
 Speech Style Transfer <small>Fall 2022</small>
