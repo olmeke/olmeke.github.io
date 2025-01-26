@@ -6,6 +6,7 @@ categories: paper review
 ---
 
 This week, I came across a fascinating paper that bridges offensive security and incident response:
+
 **“Exploring LLM-Based Agents for Root Cause Analysis”**
 
 *by Devjeet Roy, Xuchao Zhang, Rashi Bhave, Chetan Bansal, Pedro Las-Casas, Rodrigo Fonseca, and Saravan Rajmohan*

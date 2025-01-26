@@ -9,7 +9,8 @@ categories: paper review
 
 To stay up-to-date with the ever-evolving fields of Offensive Security and AI, I’m embarking on a journey to read and share my thoughts on one paper every week. This week’s pick:
 
-**“Fixing Security Vulnerabilities with AI in OSS-Fuzz”** \
+**“Fixing Security Vulnerabilities with AI in OSS-Fuzz”**
+
 *by Yuntong Zhang, Jiawei Wang, Dominic Berzin, Martin Mirchev, Dongge Liu, Abhishek Arya, Oliver Chang, and Abhik Roychoudhury.*
 
 #### TL;DR
