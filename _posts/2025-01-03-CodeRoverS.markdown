@@ -39,8 +39,8 @@ The original AutoCodeRover was built for Python projects. CodeRover-S incorporat
 In evaluations using OSS-Fuzz vulnerability data, CodeRover-S significantly outperforms other tools:
 
 * CodeRover-S: 52.6% patching success rate
-* VulMaster: 30.9%
-* Agentless: <1%
+* Agentless: 30.9%
+* VulMaster: <1%
 
 Further analysis by the authors shows that CodeRover-S excels at fixing buffer overflows and bounds-checking bugs but struggles with use-after-free and uninitialized-use vulnerabilities.
 
