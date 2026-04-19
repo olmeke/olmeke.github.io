@@ -7,25 +7,29 @@ layout: page
 
 ![Picture](assets/logo.jpeg){: width="200" }
 
-I am a PhD student at [Univeristy of California, Santa Barbara](https://www.ucsb.edu/) in the [Computer Security Lab](https://seclab.cs.ucsb.edu/) advised by [Giovannia Vigna](https://sites.cs.ucsb.edu/~vigna/) and [Christopher Kruegel](https://sites.cs.ucsb.edu/~chris/).
-I am interested in systems security, binary analysis, root causing, ML applications in security.
-Previously, I worked on ARM TrustZone security, rehosting, and OS security.
-If you are interested, send me an email, I am happy to talk!
+I am an Offensive Security Engineer at NVIDIA, working on the [DriveOS platform](https://developer.nvidia.com/drive/os) within the automotive org. My work focuses on automating security workflows and supporting offensive security efforts, with a particular interest in leveraging LLMs to scale and augment security analysis.
 
-Before starting the PhD, I did a Bachelor's at [FAU](https://www.fau.eu/).
-I wrote my thesis on rehosting bootloaders of COTS mobile devices.
+More broadly, I am interested in systems security and in understanding the layers of computation that lie beneath immediate interfaces—spanning low-level components such as hypervisors, operating systems, and firmware. During my research at [Univeristy of California, Santa Barbara](https://www.ucsb.edu/) under the supervision of [Giovannia Vigna](https://sites.cs.ucsb.edu/~vigna/) and [Christopher Kruegel](https://sites.cs.ucsb.edu/~chris/), I worked on operating system security, with a focus on kernel fuzzing. My broader interests include binary analysis, root cause analysis, ML applications in security, as well as ARM TrustZone, rehosting, and OS security.
+
+If you are interested in related topics, feel free to reach out—I am always happy to connect.
 
 ## Education
-**University of California, Santa Barbara** <small>*2021 - present*</small> \
-PhD in Computer Science
+**University of California, Santa Barbara** \
+PhD program in Computer Science, exited with Masters
 
-**Friedrich-Alexander University Erlangen-Nuremberg** <small>*2021 - present*</small> \
+**Friedrich-Alexander University Erlangen-Nuremberg** \
 Bachelor of Science in Computer Science, *graduated with distinction*
 
 ## Publications
 
 **ACTOR: Action-Guided Kernel Fuzzing** (USENIX '23) <small> [pdf](docs/pubs/sec23_actor.pdf) [cite](docs/bibs/sec23_actor.bib) </small> \
 Marius Fleischer, Dipanjan Das, Priyanka Bose, Weiheng Bai, Kangjie Lu, Mathias Payer, Christopher Kruegel, Giovanni Vigna
+
+**Syzgrapher: Resource-Centric Graph-Based Kernel Fuzzing** (RAID '25) <small> [pdf](docs/pubs/raid25_syzgrapher.pdf) [cite](docs/bibs/raid25_syzgrapher.bib) </small> \
+Marius Fleischer, Harrison Green, Ilya Grishchenko, Christopher Kruegel, Giovanni Vigna
+
+**Orion: Fuzzing Workflow Automation** (Arxiv '25) <small> [pdf](docs/pubs/arxiv25_orion.pdf) [cite](docs/bibs/arxiv25_orion.bib) </small> \
+Max Bazalii, Marius Fleischer
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=xU4DqLsAAAAJ)
 
