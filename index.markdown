@@ -35,10 +35,10 @@ Max Bazalii, Marius Fleischer
 
 ## Projects
 
-Speech Style Transfer <small>Fall 2022</small>
+Speech Style Transfer
 * Developed one-click pipeline for speech style transfer based on SOTA models AutoPST, AutoVC
 * Evaluated the model performance on a multi-accent name dataset, live data during a demo presentation
 
-Fake News Detection <small>Spring 2022</small>
+Fake News Detection
 * Developed an end-to-end data collection pipeline using the Twitter API v1 and v2 that generates a dataset for Graph Neural Network (GNN) models starting from a set of root tweets
 * Evaluated the performance of existing GNN models (developed in PyTorch) on multiple social media datasets
